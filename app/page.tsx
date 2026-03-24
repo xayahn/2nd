@@ -164,7 +164,7 @@ export default function Home() {
                   and shit you see how fast time goes by. Imagine 2 years na tayo through ups and downs youre still with me after everything.
                   Thank you for being my strenght, for making me the very best version of myself, for always sticking up to me no matter what. Oh when i remember the days
                   that we were still friends i find myself smiling when i think of it. Thank you for always loving and taking care of me lalo na pag may sakit ako.
-                  Tangina baby i cant thank you enough for everything youve done to me! And i know that nag sstruggle tayo because of me and nawawala na yung love language mo ng pag recieve ng FallingPetalskasi everytime nalang hindi kita nabibilhan, anyways ayaw kong
+                  Tangina baby i cant thank you enough for everything youve done to me! And i know that nag sstruggle tayo because of me and nawawala na yung love language mo ng pag recieve ng gifts kasi everytime nalang hindi kita nabibilhan, anyways ayaw kong
                   maging tungkol sakin tong letter. I promise babawi ako sayo!
                 </p>
                 
@@ -174,7 +174,7 @@ export default function Home() {
                    and your silly jokes and moments that i never want to end. I want this life to be full of you, I want us to grow more together, not apart of each other.
                    I always look up at you even tho dapat ako iniidolo mo hehehe, you make life worth living baby. I will never stop loving you till the moment that i cant breathe anymore.
                    Even at the after life, ill always find you kahit saan pa man yan mapa dagat dagatang apoy or sa heaven, and siyempre for sure heaven kasi angel ka.
-                   I could search every timeline and every line of code in this world, and id still choose this exact moment, building this little universe just for you! Happy 2nd monthsary baby! I love you so much with all of me.
+                   I could search every timeline and every line of code in this world, and id still choose this exact moment, building this little universe just for you! Happy 2nd anniversary baby! I love you so much with all of me.
                 </p>
 
                 <p className="mb-6 indent-8 font-medium">
